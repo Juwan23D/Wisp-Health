@@ -9,7 +9,7 @@ The dataset analyzed consisted of 3 tables, covering information about the custo
 
 ![image](https://github.com/user-attachments/assets/06cdb1bc-e4d9-4e11-add0-4c89dd5638ba)
 
-The Data in this project was divided into 3 sections each with its own set of metrics that told the story of the data.
+The  project was divided into 3 sections each with its own set of metrics that told the story of the data.
 
 Marketing Metrics:
 
@@ -19,7 +19,7 @@ Marketing Metrics:
 
 Signup Metrics:
 
-Signup Count: The total number of signups a campaign category gathered.
-Signup Rate: The percent of signups for a plan after customers viewed a campaging. 
-Cost Per Signup (CPS): The amount of money Wisp spends to acquire one signup.
+* Signup Count: The total number of signups a campaign category gathered.
+* Signup Rate: The percent of signups for a plan after customers viewed a campaging. 
+* Cost Per Signup (CPS): The amount of money Wisp spends to acquire one signup.
 
