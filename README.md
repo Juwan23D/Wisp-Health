@@ -23,3 +23,8 @@ Signup Metrics:
 * Signup Rate: The percent of signups for a plan after customers viewed a campaging. 
 * Cost Per Signup (CPS): The amount of money Wisp spends to acquire one signup.
 
+Claim Metrics:
+
+* Claim Amount: Total currency value of claims submitted by customers, helps understand cost implifications of certain coverages.
+* Avg Claim Amount: average currency value of all claims submitted.
+
