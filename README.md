@@ -13,7 +13,13 @@ The Data in this project was divided into 3 sections each with its own set of me
 
 Marketing Metrics:
 
-* Impressions: The number of times content was seen, doesnt mean it was engaged, but does highlight visibility. 
-* Click Through Rate (CTR): The percent of people who clicked Wisp's ad, gauges what garners audience interest.
-* Cost-Per Cick (CPC): The amount Wisp pays everytime the content is clicked, reflects efficiency of spending budget.
+* Impressions: The number of times a campaign was seen, doesnt mean it was engaged, but does highlight visibility. 
+* Click Through Rate (CTR): The percent of people who clicked Wisp's campaign, gauges what garners audience interest.
+* Cost-Per Cick (CPC): The amount Wisp pays everytime the campaign is clicked, reflects efficiency of spending budget.
+
+Signup Metrics:
+
+Signup Count: The total number of signups a campaign category gathered.
+Signup Rate: The percent of signups for a plan after customers viewed a campaging. 
+Cost Per Signup (CPS): The amount of money Wisp spends to acquire one signup.
 
