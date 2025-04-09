@@ -25,8 +25,8 @@ Signup Metrics:
 
 Claim Metrics:
 
-* Claim Amount: Total currency value of claims submitted by customers, helps understand cost implifications of certain coverages.
-* Avg Claim Amount: average currency value of all claims submitted.
+* Claim Amount: Total amount of claims payed out to customers, helps understand cost implifications of certain coverages.
+* Avg Claim Amount: Average amount a single claim costs.
 
 # Insights
 
