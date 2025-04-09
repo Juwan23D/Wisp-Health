@@ -28,3 +28,19 @@ Claim Metrics:
 * Claim Amount: Total currency value of claims submitted by customers, helps understand cost implifications of certain coverages.
 * Avg Claim Amount: average currency value of all claims submitted.
 
+# Insights
+
+### Marketing
+
+* Despite receiving the fewest impressions, the 'Health for All' and 'Benefit Updates' categories had the highest click-through rates at 25% and 22% indicating strong audience interest and potential for greater impact.
+
+* Golden Years Security had the highest cost-per-click at $0.68, yet it delivered the lowest click-through rate (1.41%) and one of the lowest impression counts, highlighting a costly and underperforming category.
+
+* The Family Coverage category generated over 1.1 million impressions; however, data on clicks and cost is missing. To ensure accurate performance evaluation, it may be helpful to meet with the engineering team to investigate the cause of the missing data and recover any lost metrics.
+
+* There appears to be an inverse relationship between impressions and CTR. For example, the 'Health for All' campaign achieved a 25% CTR with only 170,000 impressions, while 'Tailored Health Plans' had a significantly lower CTR of 7% despite reaching nearly 1.4 million impressions. This trend could point to factors such as overly broad targeting, audience saturation, or creative fatigue affecting engagement.
+
+
+
+
+
