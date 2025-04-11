@@ -36,17 +36,17 @@ Claim Metrics:
 
 * Golden Years Security had the highest cost-per-click at $0.68, yet it delivered the lowest click-through rate (1.41%) and one of the lowest impression counts, highlighting a costly and underperforming category.
 
-* The Family Coverage category generated over 1.1 million impressions; however, data on clicks and cost is missing. To ensure accurate performance evaluation, it may be helpful to meet with the engineering team to investigate the cause of the missing data and recover the lost metrics.
+* The Family Coverage category generated over 1.1 million impressions; however, data on clicks and cost is missing. To ensure accurate performance evaluation, it may be helpful to meet with the engineering team to investigate the cause of the missing data.
 
 * Impressions and CTR show an inverse relationship, Health for All saw a 25% CTR with 170K impressions, while Tailored Health Plans had just 7% with 1.4M. This may indicate broad targeting, audience saturation, or creative fatigue.
 
 ### Signups
 
-* The Health for All campaign achieved the highest signup rate at 2.08%, representing a 316% increase compared to the average of other categories, and secured the second-highest total signups with 3,545. Despite not having the highest signup volume, its signup rate was more than four times higher than that of the Coverage Matters campaign (0.50%). This significant performance gap suggests that Health for All may possess messaging, targeting, or creative strategies worth analyzing and potentially applying to other campaigns.
+* The Health for All campaign had the highest signup rate at 2.08%,a 316% increase compared to the other categories, and the second-highest total signups (3,545). Despite lower volume, its rate was over 4x that of Coverage Matters (0.50%), suggesting its messaging, targeting, or creative strategy may offer valuable insights for other campaigns.
 
-* There was a notable spike in signups during 2020, with the Coverage Matters category alone increasing from 41 signups in February to 168 in April. This sudden rise likely correlates with the onset of the COVID-19 pandemic, as consumers sought to secure insurance coverage in anticipation of potential health risks.
+* Signups spiked in 2020, with Coverage Matters rising from 41 in February to 168 in April, likely driven by the onset of COVID-19 as consumers sought insurance amid growing health concerns.
 
-* Categories with higher cost per signup tend to have lower signup rates. Benefit Updates had a cost per signup of $47.81 with only a 2% signup rate, while Health for All achieved a 2.08% signup rate at just $1.23 per signup. This suggests that more money is being spent to acquire fewer customers in certain categories, pointing to potential inefficiencies in campaign targeting or messaging.
+* Higher cost per signup often aligns with lower signup rates. Benefit Updates had a 0.02% signup rate at $47.81 CPS, while Health for All reached a 2.08% at just $1.23 CPS. This suggests that more money is being spent to acquire fewer customers in certain categories, pointing to potential inefficiencies in campaign targeting or messaging.
 
 ### Claims
 
