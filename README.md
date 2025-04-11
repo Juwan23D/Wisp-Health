@@ -46,7 +46,7 @@ Claim Metrics:
 
 * Signups spiked in 2020, with Coverage Matters rising from 41 in February to 168 in April, likely driven by the onset of COVID-19 as consumers sought insurance amid growing health concerns.
 
-* Higher cost per signup often aligns with lower signup rates. Benefit Updates had a 0.02% signup rate at $47.81 CPS, while Health for All reached a 2.08% at just $1.23 CPS. This suggests that more money is being spent to acquire fewer customers in certain categories, pointing to potential inefficiencies in campaign targeting or messaging.
+* Higher cost per signup often aligns with lower signup rates. Benefit Updates had a 0.02% signup rate at $47.81 CPS, while Health for All reached a 2.08% at just $1.23 CPS. This suggests that more money is being spent to acquire fewer customers in certain categories, pointing to potential inefficiencies in current marketing practices.
 
 ### Claims
 
