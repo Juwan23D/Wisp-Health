@@ -38,7 +38,7 @@ Claim Metrics:
 
 * The Family Coverage category generated over 1.1 million impressions; however, data on clicks and cost is missing. To ensure accurate performance evaluation, it may be helpful to meet with the engineering team to investigate the cause of the missing data and recover the lost metrics.
 
-* There appears to be an inverse relationship between impressions and CTR. For example, the 'Health for All' campaign achieved a 25% CTR with only 170,000 impressions, while 'Tailored Health Plans' had a significantly lower CTR of 7% despite reaching nearly 1.4 million impressions. This trend could point to factors such as overly broad targeting, audience saturation, or creative fatigue affecting engagement.
+* Impressions and CTR show an inverse relationship, Health for All saw a 25% CTR with 170K impressions, while Tailored Health Plans had just 7% with 1.4M. This may indicate broad targeting, audience saturation, or creative fatigue.
 
 ### Signups
 
