@@ -56,13 +56,13 @@ Claim Metrics:
 
 # Recommendations
 
-* Our smallest campaign, Health for All, drove the highest engagement with a 25% click-through rate and only $1 per signup, making it the most cost effective campaign. We should allocate more funds to Health for All, and use it as a benchmark for A/B testing with other campaigns to identify key factors that can increase click-through rates and signup rates.
+* Our smallest campaign, Health for All, delivered the highest engagement with a 25% CTR and just $1 per signup, making it the most cost effective. We should increase its funding and use it as a benchmark for A/B testing to identify strategies that boost CTR and signup rates across other campaigns.
 
 * More campaign experimentation will help identify marketing expansion challenges like budget allocation, acquisition vs retention, and competition that may not be visible at smaller scales. Through careful testing, we can pinpoint which campaigns can sustain strong performance as they grow and avoid overspending on those that fail to scale effectively.
 
 * Golden Years Security is a costly and underperforming campaign, with a CPC of $0.68 and a signup cost of $176.73, alongside a 1.41% CTR and 0.01% signup rate. Wisp should either discontinue, pause, or restructure this campaign by overhauling its marketing measures to improve its efficiency, or reallocate its funds to more successful campaigns like Health for All.
 
-* The Compare Health Coverage campaign is expensive, with $3.9M in total claims and $410 per claim. To improve cost efficiency, we should revise coverage options to reduce unnecessary claims and refine forecasting models to account for unpredictable events like a pandemic, allowing us to reallocate funds from underperforming areas to higher performing campaigns.
+* The Compare Health Coverage campaign is expensive, with $3.9M in total claims and $410 per claim. To improve cost efficiency, we should revise coverage options to reduce unnecessary claims and refine forecasting models to account for unpredictable events, enabling fund reallocation from underperforming to higher performing campaigns.
 
 * Missing click and cost data for Family Coverage hinders our ability to accurately evaluate performance. We need to have a meeting with the engineering team to locate the missing data and see if any future gaps are preventable.
 
