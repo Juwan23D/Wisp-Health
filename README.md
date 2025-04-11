@@ -68,7 +68,7 @@ Claim Metrics:
 
 # Dashboard
 
-
+![](https://github.com/Juwan23D/Wisp-Health/blob/main/Dashboard%201.png)
 
 
 
