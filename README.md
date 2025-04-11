@@ -42,7 +42,7 @@ Claim Metrics:
 
 ### Signups
 
-* The Health for All campaign had the highest signup rate at 2.08%,a 316% increase compared to the other categories, and the second-highest total signups (3,545). Despite lower volume, its rate was over 4x that of Coverage Matters (0.50%), suggesting its messaging, targeting, or creative strategy may offer valuable insights for other campaigns.
+* The Health for All campaign had the highest signup rate at 2.08%,a 316% increase compared to the other categories, and the second-highest total signups (3,545). Despite lower volume, its rate was over 4x that of Coverage Matters (0.50%), suggesting its, creative strategy may offer valuable insights for other campaigns.
 
 * Signups spiked in 2020, with Coverage Matters rising from 41 in February to 168 in April, likely driven by the onset of COVID-19 as consumers sought insurance amid growing health concerns.
 
