@@ -50,7 +50,7 @@ Claim Metrics:
 
 ### Claims
 
-* The Compare Health Coverage category experienced a 592% increase in claim amounts, rising from $25K in July 2020 to $173K by July 2022. This spike was likely driven by pandemic-related factors, such as increased medical utilization, higher membership enrollment, and a shift toward more comprehensive coverage as consumers prepared for potential illness. However, as the world transitioned into a post-pandemic environment in 2023, claim amounts dropped by 61%, suggesting the need for more sustainable growth strategies and better forecasting to handle future shifts in demand.
+* Compare Health Coverage saw a 592% surge in claim amounts from $25K in July 2020 to $173K by July 2022, likely due to pandemic driven factors like higher medical use and enrollment. In 2023, claims dropped 61% as conditions normalized, highlighting the need for sustainable growth strategies and improved demand forecasting.
 
 * Compare Health Coverage' had the most money paid out in claims ($3.9 million) and the highest cost per claim ($410). This means it's one of the most expensive categories for the company and could be putting a strain on resources.
 
