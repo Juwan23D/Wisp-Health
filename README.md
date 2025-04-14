@@ -68,7 +68,9 @@ Claim Metrics:
 
 # Dashboard
 
-**[Wisp Campaign Dashboard](https://public.tableau.com/views/RowHealth2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+**[Wisp Campaign Dashboard](https://public.tableau.com/views/RowHealth2/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**:
+Interactive dashboard created on Tableau that gives a more detailed explanation of specific trends based on plan,state, and campaign type.
+
 
 ![](https://github.com/Juwan23D/Wisp-Health/blob/main/Dashboard%201.png)
 
