@@ -20,7 +20,7 @@ Marketing Metrics:
 Signup Metrics:
 
 * Signup Count: The total number of signups a campaign category gathered.
-* Signup Rate: The percent of signups for a plan after customers viewed a campaging. 
+* Signup Rate: The percent of signups for a plan after customers viewed a campaign. 
 * Cost Per Signup (CPS): The amount of money Wisp spends to acquire one signup.
 
 Claim Metrics:
