@@ -32,15 +32,21 @@ Claim Metrics:
 
 ### Marketing
 
+![Screenshot 2025-04-19 013811](https://github.com/user-attachments/assets/e4e7dd97-9072-48b1-8edf-a2296e68ab16)
+
+
 * Despite receiving the fewest impressions, the 'Health for All' and 'Benefit Updates' categories had the highest click-through rates at 25% and 22% indicating strong audience interest and potential for greater impact.
 
 * Golden Years Security had the highest cost-per-click at $0.68, yet it delivered the lowest click-through rate (1.41%) and one of the lowest impression counts, highlighting a costly and underperforming category.
 
 * The Family Coverage category generated over 1.1 million impressions; however, data on clicks and cost is missing. To ensure accurate performance evaluation, it may be helpful to meet with the engineering team to investigate the cause of the missing data.
 
-* Impressions and CTR show an inverse relationship, Health for All saw a 25% CTR with 170K impressions, while Tailored Health Plans had just 7% with 1.4M. This may indicate broad targeting, audience saturation, or creative fatigue.
+* Impressions and CTR show a varying inverse relationship, Health for All saw a 25% CTR with 170K impressions, while Tailored Health Plans had just 7% with 1.4M. This may indicate broad targeting, audience saturation, or creative fatigue.
 
 ### Signups
+
+![Screenshot 2025-04-19 013855](https://github.com/user-attachments/assets/0775c1e8-de05-49df-860d-cf22dff3df9f)
+
 
 * The Health for All campaign had the highest signup rate at 2.08%,a 316% increase compared to the other categories, and the second-highest total signups (3,545). Despite lower volume, its rate was over 4x that of Coverage Matters (0.50%), suggesting its, creative strategy may offer valuable insights for other campaigns.
 
@@ -49,6 +55,8 @@ Claim Metrics:
 * Higher cost per signup often aligns with lower signup rates. Benefit Updates had a 0.02% signup rate at $47.81 CPS, while Health for All reached a 2.08% at just $1.23 CPS. This suggests that more money is being spent to acquire fewer customers in certain categories, pointing to potential inefficiencies in current marketing practices.
 
 ### Claims
+
+![Screenshot 2025-04-19 014020](https://github.com/user-attachments/assets/120b1ef9-b994-4382-9431-98c77717f389)
 
 * Compare Health Coverage saw a 592% surge in claim amounts from $25K in July 2020 to $173K by July 2022, likely due to pandemic driven factors. In 2023, claims dropped 61% as conditions normalized, highlighting the need for sustainable growth strategies and improved demand forecasting.
 
